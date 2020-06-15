@@ -1,6 +1,3 @@
 basic.forever(function () {
-    led.plotBarGraph(
-    input.acceleration(Dimension.X),
-    0
-    )
+    serial.writeNumbers([input.acceleration(Dimension.X), input.acceleration(Dimension.Y), input.acceleration(Dimension.Z)])
 })
