@@ -28,7 +28,7 @@ This image may take a few minutes to refresh.
 ## Simulator preview
 
 This image shows the simulator preview
-![A image of the simulator preview](https://github.com/peterheldens/show-console-device/tree/master/.github/makecode/simulator.png)
+![A image of the simulator preview](/.github/makecode/simulator.png)
 
 #### Metadata (used for search, rendering)
 
