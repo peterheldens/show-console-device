@@ -9,17 +9,18 @@ To edit this repository in MakeCode.
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/peterheldens/show-console-device** and click import
 
+## Simulator preview
+
+This image shows the simulator preview of 3 different streams:
+![A image of the simulator preview](https://github.com/peterheldens/show-console-device/raw/master/.github/makecode/simulator.png)
+
+
 ## Blocks preview
 
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
 ![A rendered view of the blocks](https://github.com/peterheldens/show-console-device/raw/master/.github/makecode/blocks.png)
-
-## Simulator preview
-
-This image shows the simulator preview
-![A image of the simulator preview](https://github.com/peterheldens/show-console-device/raw/master/.github/makecode/simulator.png)
 
 #### Metadata (used for search, rendering)
 
